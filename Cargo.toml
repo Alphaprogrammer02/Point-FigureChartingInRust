@@ -1,0 +1,27 @@
+[package]
+name = "fp_turbo"
+version = "0.1.0"
+edition = "2021"
+author = MING LIU 
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+itertools = "0.11"    
+serde = { version = "1.0", features = ["derive"] } 
+serde_json = "1.0"    
+lazy_static = "1.4.0" 
+env_logger = "0.10"   
+plotters = "0.3.5"
+plotly = "0.8.4" 
+chrono = "0.4" 
+
+
+[[bin]] 
+name = "main" 
+path = "src/main.rs" 
+
+
+[[bin]] 
+name = "plot_test" 
+path = "src/plot_test.rs" 
