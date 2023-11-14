@@ -1,0 +1,2047 @@
+[
+  {
+    "trend_type": "Downward",
+    "start_date": "2019-01-02",
+    "start_price": "43",
+    "end_price": "41",
+    "end_date": "2019-02-22"
+  },
+  {
+    "end_price": "46",
+    "end_aligned_price": "16.5",
+    "start_date": "2019-02-25",
+    "end_date": "2019-03-19",
+    "start_price": "42",
+    "trend_type": "Upward",
+    "start_aligned_price": "17"
+  },
+  {
+    "end_date": "2019-04-09",
+    "start_price": "45",
+    "start_date": "2019-03-20",
+    "trend_type": "Downward",
+    "end_price": "42",
+    "start_aligned_price": "16.5"
+  },
+  {
+    "start_date": "2019-04-10",
+    "start_price": "43",
+    "trend_type": "Upward",
+    "start_aligned_price": "17.5",
+    "end_price": "46",
+    "end_aligned_price": "16.5",
+    "end_date": "2019-04-11"
+  },
+  {
+    "trend_type": "Downward",
+    "start_aligned_price": "16.5",
+    "start_price": "45",
+    "end_price": "33",
+    "end_date": "2019-06-19",
+    "start_date": "2019-04-12"
+  },
+  {
+    "end_date": "2019-08-01",
+    "end_price": "37",
+    "start_date": "2019-06-20",
+    "start_aligned_price": "13",
+    "start_price": "34",
+    "trend_type": "Upward",
+    "end_aligned_price": "12"
+  },
+  {
+    "end_date": "2019-08-26",
+    "trend_type": "Downward",
+    "start_aligned_price": "12",
+    "start_price": "36",
+    "start_date": "2019-08-02",
+    "end_price": "34"
+  },
+  {
+    "end_date": "2019-10-31",
+    "start_price": "35",
+    "start_aligned_price": "13.5",
+    "end_aligned_price": "12",
+    "start_date": "2019-08-27",
+    "end_price": "37",
+    "trend_type": "Upward"
+  },
+  {
+    "start_date": "2019-11-01",
+    "start_price": "36",
+    "start_aligned_price": "12",
+    "end_date": "2019-12-18",
+    "end_price": "34",
+    "trend_type": "Downward"
+  },
+  {
+    "end_aligned_price": "11.5",
+    "end_price": "37",
+    "start_aligned_price": "13.5",
+    "end_date": "2019-12-19",
+    "start_date": "2019-12-19",
+    "trend_type": "Upward",
+    "start_price": "35"
+  },
+  {
+    "end_price": "26",
+    "trend_type": "Downward",
+    "start_aligned_price": "11.5",
+    "end_date": "2020-02-10",
+    "start_date": "2019-12-20",
+    "start_price": "36"
+  },
+  {
+    "end_aligned_price": "9.5",
+    "end_date": "2020-03-10",
+    "start_price": "27",
+    "trend_type": "Upward",
+    "start_date": "2020-02-11",
+    "start_aligned_price": "9.5",
+    "end_price": "32"
+  },
+  {
+    "trend_type": "Downward",
+    "start_aligned_price": "9.5",
+    "start_price": "31",
+    "end_date": "2020-04-02",
+    "end_price": "25",
+    "start_date": "2020-03-11"
+  },
+  {
+    "end_date": "2020-04-10",
+    "end_aligned_price": "8",
+    "start_date": "2020-04-03",
+    "end_price": "29",
+    "start_aligned_price": "9",
+    "trend_type": "Upward",
+    "start_price": "26"
+  },
+  {
+    "trend_type": "Downward",
+    "end_date": "2020-06-01",
+    "start_date": "2020-04-13",
+    "end_price": "25",
+    "start_aligned_price": "8",
+    "start_price": "28"
+  },
+  {
+    "trend_type": "Upward",
+    "end_price": "32",
+    "start_date": "2020-06-02",
+    "end_aligned_price": "9",
+    "end_date": "2020-06-08",
+    "start_aligned_price": "9",
+    "start_price": "26"
+  },
+  {
+    "trend_type": "Downward",
+    "start_aligned_price": "9",
+    "end_price": "26",
+    "end_date": "2020-07-13",
+    "start_date": "2020-06-09",
+    "start_price": "31"
+  },
+  {
+    "start_date": "2020-07-14",
+    "start_aligned_price": "9.5",
+    "end_aligned_price": "8",
+    "trend_type": "Upward",
+    "end_price": "29",
+    "end_date": "2020-07-28",
+    "start_price": "27"
+  },
+  {
+    "end_price": "26",
+    "trend_type": "Downward",
+    "end_date": "2020-08-10",
+    "start_date": "2020-07-29",
+    "start_price": "28",
+    "start_aligned_price": "8"
+  },
+  {
+    "end_price": "29",
+    "start_price": "27",
+    "end_aligned_price": "8",
+    "trend_type": "Upward",
+    "start_aligned_price": "9.5",
+    "end_date": "2020-09-09",
+    "start_date": "2020-08-11"
+  },
+  {
+    "start_price": "28",
+    "trend_type": "Downward",
+    "start_date": "2020-09-10",
+    "start_aligned_price": "8",
+    "end_price": "26",
+    "end_date": "2020-10-12"
+  },
+  {
+    "start_price": "27",
+    "start_aligned_price": "9.5",
+    "end_price": "29",
+    "end_aligned_price": "8",
+    "end_date": "2020-10-30",
+    "start_date": "2020-10-13",
+    "trend_type": "Upward"
+  },
+  {
+    "start_date": "2020-11-02",
+    "trend_type": "Downward",
+    "end_price": "26",
+    "end_date": "2020-11-04",
+    "start_aligned_price": "8",
+    "start_price": "28"
+  },
+  {
+    "start_aligned_price": "10",
+    "start_price": "27",
+    "end_price": "32",
+    "end_aligned_price": "9.5",
+    "end_date": "2020-11-06",
+    "trend_type": "Upward",
+    "start_date": "2020-11-05"
+  },
+  {
+    "end_date": "2020-11-13",
+    "start_aligned_price": "9.5",
+    "start_date": "2020-11-09",
+    "start_price": "31",
+    "trend_type": "Downward",
+    "end_price": "28"
+  },
+  {
+    "end_aligned_price": "18",
+    "start_date": "2020-11-16",
+    "trend_type": "Upward",
+    "start_price": "29",
+    "start_aligned_price": "10.5",
+    "end_date": "2020-11-27",
+    "end_price": "51"
+  },
+  {
+    "trend_type": "Downward",
+    "end_price": "45",
+    "end_date": "2020-12-01",
+    "start_date": "2020-11-30",
+    "start_price": "50",
+    "start_aligned_price": "18"
+  },
+  {
+    "end_date": "2020-12-03",
+    "trend_type": "Upward",
+    "start_date": "2020-12-02",
+    "end_aligned_price": "18.5",
+    "start_price": "46",
+    "end_price": "54",
+    "start_aligned_price": "22"
+  },
+  {
+    "start_price": "53",
+    "trend_type": "Downward",
+    "start_aligned_price": "18.5",
+    "start_date": "2020-12-04",
+    "end_price": "43",
+    "end_date": "2020-12-08"
+  },
+  {
+    "end_price": "46",
+    "start_date": "2020-12-09",
+    "start_aligned_price": "18",
+    "start_price": "44",
+    "trend_type": "Upward",
+    "end_date": "2020-12-09",
+    "end_aligned_price": "15.5"
+  },
+  {
+    "start_date": "2020-12-10",
+    "end_date": "2020-12-11",
+    "end_price": "40",
+    "start_aligned_price": "15.5",
+    "start_price": "45",
+    "trend_type": "Downward"
+  },
+  {
+    "end_price": "49",
+    "trend_type": "Upward",
+    "end_aligned_price": "17.5",
+    "end_date": "2020-12-15",
+    "start_aligned_price": "17.5",
+    "start_price": "41",
+    "start_date": "2020-12-14"
+  },
+  {
+    "start_price": "48",
+    "end_price": "41",
+    "end_date": "2020-12-17",
+    "trend_type": "Downward",
+    "start_date": "2020-12-16",
+    "start_aligned_price": "17.5"
+  },
+  {
+    "end_aligned_price": "16",
+    "end_date": "2020-12-21",
+    "start_aligned_price": "17.5",
+    "trend_type": "Upward",
+    "start_date": "2020-12-18",
+    "start_price": "42",
+    "end_price": "46"
+  },
+  {
+    "start_date": "2020-12-22",
+    "start_price": "45",
+    "start_aligned_price": "16",
+    "trend_type": "Downward",
+    "end_price": "39",
+    "end_date": "2020-12-25"
+  },
+  {
+    "end_date": "2020-12-29",
+    "start_price": "40",
+    "start_aligned_price": "17.5",
+    "end_aligned_price": "15",
+    "end_price": "43",
+    "start_date": "2020-12-28",
+    "trend_type": "Upward"
+  },
+  {
+    "start_price": "42",
+    "end_date": "2020-12-30",
+    "trend_type": "Downward",
+    "start_aligned_price": "15",
+    "end_price": "40",
+    "start_date": "2020-12-30"
+  },
+  {
+    "end_aligned_price": "15.5",
+    "end_date": "2021-01-05",
+    "start_aligned_price": "17",
+    "start_price": "41",
+    "trend_type": "Upward",
+    "start_date": "2020-12-31",
+    "end_price": "47"
+  },
+  {
+    "end_price": "40",
+    "start_price": "46",
+    "start_aligned_price": "15.5",
+    "start_date": "2021-01-06",
+    "trend_type": "Downward",
+    "end_date": "2021-01-07"
+  },
+  {
+    "start_aligned_price": "16.5",
+    "start_price": "41",
+    "end_aligned_price": "15",
+    "end_date": "2021-01-08",
+    "trend_type": "Upward",
+    "start_date": "2021-01-08",
+    "end_price": "43"
+  },
+  {
+    "start_date": "2021-01-11",
+    "start_aligned_price": "15",
+    "trend_type": "Downward",
+    "start_price": "42",
+    "end_price": "35",
+    "end_date": "2021-01-19"
+  },
+  {
+    "end_date": "2021-01-20",
+    "end_price": "38",
+    "trend_type": "Upward",
+    "start_date": "2021-01-20",
+    "start_price": "36",
+    "end_aligned_price": "12.5",
+    "start_aligned_price": "14"
+  },
+  {
+    "trend_type": "Downward",
+    "start_price": "37",
+    "start_date": "2021-01-21",
+    "end_price": "35",
+    "start_aligned_price": "12.5",
+    "end_date": "2021-01-21"
+  },
+  {
+    "end_aligned_price": "18",
+    "end_date": "2021-01-28",
+    "start_price": "36",
+    "start_date": "2021-01-22",
+    "trend_type": "Upward",
+    "start_aligned_price": "15",
+    "end_price": "50"
+  },
+  {
+    "end_price": "36",
+    "start_aligned_price": "18",
+    "end_date": "2021-02-10",
+    "trend_type": "Downward",
+    "start_date": "2021-01-29",
+    "start_price": "49"
+  },
+  {
+    "end_aligned_price": "18",
+    "end_price": "50",
+    "trend_type": "Upward",
+    "start_date": "2021-02-18",
+    "end_date": "2021-03-01",
+    "start_price": "37",
+    "start_aligned_price": "14.5"
+  },
+  {
+    "trend_type": "Downward",
+    "start_aligned_price": "18",
+    "end_price": "46",
+    "start_date": "2021-03-02",
+    "start_price": "49",
+    "end_date": "2021-03-03"
+  },
+  {
+    "end_aligned_price": "19",
+    "end_date": "2021-03-08",
+    "start_aligned_price": "22",
+    "start_date": "2021-03-04",
+    "start_price": "47",
+    "trend_type": "Upward",
+    "end_price": "53"
+  },
+  {
+    "trend_type": "Downward",
+    "start_date": "2021-03-09",
+    "end_date": "2021-03-11",
+    "start_price": "52",
+    "end_price": "44",
+    "start_aligned_price": "19"
+  },
+  {
+    "end_price": "56",
+    "start_date": "2021-03-12",
+    "start_aligned_price": "21",
+    "end_aligned_price": "23",
+    "start_price": "45",
+    "end_date": "2021-03-23",
+    "trend_type": "Upward"
+  },
+  {
+    "start_aligned_price": "23",
+    "end_date": "2021-03-25",
+    "trend_type": "Downward",
+    "end_price": "52",
+    "start_date": "2021-03-24",
+    "start_price": "55"
+  },
+  {
+    "start_date": "2021-03-26",
+    "trend_type": "Upward",
+    "start_aligned_price": "25",
+    "end_price": "55",
+    "end_aligned_price": "22",
+    "end_date": "2021-03-26",
+    "start_price": "53"
+  },
+  {
+    "trend_type": "Downward",
+    "start_date": "2021-03-29",
+    "start_price": "54",
+    "end_price": "50",
+    "start_aligned_price": "22",
+    "end_date": "2021-03-30"
+  },
+  {
+    "end_date": "2021-04-21",
+    "start_aligned_price": "24",
+    "start_date": "2021-03-31",
+    "start_price": "51",
+    "trend_type": "Upward",
+    "end_price": "66",
+    "end_aligned_price": "30"
+  },
+  {
+    "start_price": "65",
+    "start_aligned_price": "30",
+    "start_date": "2021-04-22",
+    "end_price": "63",
+    "end_date": "2021-04-22",
+    "trend_type": "Downward"
+  },
+  {
+    "end_price": "77",
+    "start_aligned_price": "38",
+    "end_aligned_price": "42",
+    "end_date": "2021-04-28",
+    "trend_type": "Upward",
+    "start_date": "2021-04-23",
+    "start_price": "64"
+  },
+  {
+    "start_date": "2021-04-29",
+    "start_price": "76",
+    "end_price": "73",
+    "start_aligned_price": "42",
+    "trend_type": "Downward",
+    "end_date": "2021-04-30"
+  },
+  {
+    "start_price": "74",
+    "start_date": "2021-05-06",
+    "trend_type": "Upward",
+    "end_price": "97",
+    "end_aligned_price": "59",
+    "start_aligned_price": "53",
+    "end_date": "2021-05-11"
+  },
+  {
+    "end_date": "2021-05-14",
+    "start_price": "96",
+    "start_aligned_price": "59",
+    "start_date": "2021-05-12",
+    "trend_type": "Downward",
+    "end_price": "86"
+  },
+  {
+    "end_price": "99",
+    "end_aligned_price": "57",
+    "trend_type": "Upward",
+    "start_price": "87",
+    "start_date": "2021-05-17",
+    "end_date": "2021-05-19",
+    "start_aligned_price": "63"
+  },
+  {
+    "trend_type": "Downward",
+    "start_aligned_price": "57",
+    "start_price": "98",
+    "end_price": "82",
+    "start_date": "2021-05-20",
+    "end_date": "2021-05-24"
+  },
+  {
+    "start_price": "83",
+    "trend_type": "Upward",
+    "start_aligned_price": "55",
+    "end_date": "2021-05-26",
+    "start_date": "2021-05-25",
+    "end_price": "88",
+    "end_aligned_price": "54"
+  },
+  {
+    "start_price": "87",
+    "end_price": "85",
+    "start_date": "2021-05-27",
+    "start_aligned_price": "54",
+    "end_date": "2021-05-27",
+    "trend_type": "Downward"
+  },
+  {
+    "end_price": "94",
+    "end_date": "2021-06-01",
+    "start_aligned_price": "60",
+    "start_date": "2021-05-28",
+    "start_price": "86",
+    "trend_type": "Upward",
+    "end_aligned_price": "59"
+  },
+  {
+    "trend_type": "Downward",
+    "start_price": "93",
+    "end_price": "84",
+    "start_date": "2021-06-02",
+    "end_date": "2021-06-04",
+    "start_aligned_price": "59"
+  },
+  {
+    "start_date": "2021-06-07",
+    "end_price": "100",
+    "end_aligned_price": "62",
+    "end_date": "2021-06-15",
+    "start_aligned_price": "58",
+    "trend_type": "Upward",
+    "start_price": "85"
+  },
+  {
+    "end_date": "2021-06-17",
+    "end_price": "91",
+    "start_price": "99",
+    "start_date": "2021-06-16",
+    "trend_type": "Downward",
+    "start_aligned_price": "62"
+  },
+  {
+    "start_date": "2021-06-18",
+    "end_date": "2021-06-22",
+    "trend_type": "Upward",
+    "end_price": "113",
+    "start_price": "92",
+    "start_aligned_price": "72",
+    "end_aligned_price": "76"
+  },
+  {
+    "start_aligned_price": "76",
+    "start_date": "2021-06-23",
+    "start_price": "112",
+    "trend_type": "Downward",
+    "end_price": "103",
+    "end_date": "2021-06-25"
+  },
+  {
+    "end_price": "106",
+    "trend_type": "Upward",
+    "end_aligned_price": "67",
+    "start_date": "2021-06-28",
+    "end_date": "2021-06-28",
+    "start_aligned_price": "76",
+    "start_price": "104"
+  },
+  {
+    "end_date": "2021-06-30",
+    "start_price": "105",
+    "trend_type": "Downward",
+    "start_aligned_price": "67",
+    "end_price": "95",
+    "start_date": "2021-06-29"
+  },
+  {
+    "end_aligned_price": "61",
+    "start_price": "96",
+    "start_aligned_price": "68",
+    "end_price": "98",
+    "start_date": "2021-07-01",
+    "end_date": "2021-07-01",
+    "trend_type": "Upward"
+  },
+  {
+    "end_price": "90",
+    "end_date": "2021-07-05",
+    "start_date": "2021-07-02",
+    "start_price": "97",
+    "trend_type": "Downward",
+    "start_aligned_price": "61"
+  },
+  {
+    "end_price": "96",
+    "end_date": "2021-07-07",
+    "trend_type": "Upward",
+    "start_price": "91",
+    "start_aligned_price": "63",
+    "end_aligned_price": "63",
+    "start_date": "2021-07-06"
+  },
+  {
+    "start_aligned_price": "63",
+    "end_date": "2021-07-09",
+    "trend_type": "Downward",
+    "start_price": "95",
+    "start_date": "2021-07-08",
+    "end_price": "91"
+  },
+  {
+    "end_price": "107",
+    "start_price": "92",
+    "end_aligned_price": "67",
+    "trend_type": "Upward",
+    "start_date": "2021-07-12",
+    "start_aligned_price": "73",
+    "end_date": "2021-07-13"
+  },
+  {
+    "start_date": "2021-07-14",
+    "trend_type": "Downward",
+    "end_price": "92",
+    "start_price": "106",
+    "end_date": "2021-07-19",
+    "start_aligned_price": "67"
+  },
+  {
+    "trend_type": "Upward",
+    "start_aligned_price": "66",
+    "end_price": "98",
+    "start_date": "2021-07-20",
+    "end_date": "2021-07-21",
+    "start_price": "93",
+    "end_aligned_price": "61"
+  },
+  {
+    "start_aligned_price": "61",
+    "trend_type": "Downward",
+    "start_price": "97",
+    "start_date": "2021-07-22",
+    "end_price": "82",
+    "end_date": "2021-07-28"
+  },
+  {
+    "end_price": "92",
+    "end_date": "2021-08-02",
+    "start_aligned_price": "57",
+    "start_date": "2021-07-29",
+    "end_aligned_price": "56",
+    "start_price": "83",
+    "trend_type": "Upward"
+  },
+  {
+    "start_date": "2021-08-03",
+    "start_price": "91",
+    "start_aligned_price": "56",
+    "end_date": "2021-08-04",
+    "end_price": "86",
+    "trend_type": "Downward"
+  },
+  {
+    "trend_type": "Upward",
+    "end_price": "92",
+    "end_date": "2021-08-06",
+    "start_aligned_price": "62",
+    "start_date": "2021-08-05",
+    "start_price": "87",
+    "end_aligned_price": "56"
+  },
+  {
+    "start_aligned_price": "56",
+    "start_price": "91",
+    "start_date": "2021-08-09",
+    "trend_type": "Downward",
+    "end_price": "89",
+    "end_date": "2021-08-09"
+  },
+  {
+    "start_price": "90",
+    "start_aligned_price": "63",
+    "start_date": "2021-08-10",
+    "end_price": "93",
+    "end_aligned_price": "58",
+    "end_date": "2021-08-12",
+    "trend_type": "Upward"
+  },
+  {
+    "end_date": "2021-08-18",
+    "start_price": "92",
+    "start_date": "2021-08-13",
+    "trend_type": "Downward",
+    "start_aligned_price": "58",
+    "end_price": "81"
+  },
+  {
+    "end_aligned_price": "65",
+    "start_date": "2021-08-19",
+    "start_price": "82",
+    "start_aligned_price": "56",
+    "trend_type": "Upward",
+    "end_price": "99",
+    "end_date": "2021-08-25"
+  },
+  {
+    "start_price": "98",
+    "end_price": "96",
+    "start_aligned_price": "65",
+    "start_date": "2021-08-26",
+    "end_date": "2021-08-26",
+    "trend_type": "Downward"
+  },
+  {
+    "start_date": "2021-08-27",
+    "end_aligned_price": "71",
+    "end_price": "106",
+    "start_price": "97",
+    "end_date": "2021-08-31",
+    "trend_type": "Upward",
+    "start_aligned_price": "72"
+  },
+  {
+    "end_date": "2021-09-01",
+    "trend_type": "Downward",
+    "end_price": "103",
+    "start_date": "2021-09-01",
+    "start_aligned_price": "71",
+    "start_price": "105"
+  },
+  {
+    "end_aligned_price": "71",
+    "end_date": "2021-09-03",
+    "start_price": "104",
+    "trend_type": "Upward",
+    "start_date": "2021-09-02",
+    "start_aligned_price": "78",
+    "end_price": "107"
+  },
+  {
+    "end_price": "104",
+    "end_date": "2021-09-06",
+    "start_date": "2021-09-06",
+    "start_price": "106",
+    "trend_type": "Downward",
+    "start_aligned_price": "71"
+  },
+  {
+    "trend_type": "Upward",
+    "start_date": "2021-09-07",
+    "start_aligned_price": "81",
+    "end_price": "111",
+    "end_aligned_price": "76",
+    "end_date": "2021-09-08",
+    "start_price": "105"
+  },
+  {
+    "start_price": "110",
+    "start_date": "2021-09-09",
+    "end_price": "102",
+    "trend_type": "Downward",
+    "start_aligned_price": "76",
+    "end_date": "2021-09-13"
+  },
+  {
+    "trend_type": "Upward",
+    "start_price": "103",
+    "end_date": "2021-09-15",
+    "start_date": "2021-09-14",
+    "end_price": "111",
+    "end_aligned_price": "76",
+    "start_aligned_price": "81"
+  },
+  {
+    "start_aligned_price": "76",
+    "end_date": "2021-09-29",
+    "start_price": "110",
+    "trend_type": "Downward",
+    "end_price": "86",
+    "start_date": "2021-09-16"
+  },
+  {
+    "start_date": "2021-09-30",
+    "start_aligned_price": "60",
+    "end_price": "93",
+    "trend_type": "Upward",
+    "end_aligned_price": "58",
+    "end_date": "2021-10-11",
+    "start_price": "87"
+  },
+  {
+    "start_date": "2021-10-12",
+    "end_price": "88",
+    "start_aligned_price": "58",
+    "end_date": "2021-10-13",
+    "trend_type": "Downward",
+    "start_price": "92"
+  },
+  {
+    "end_date": "2021-10-20",
+    "start_price": "89",
+    "trend_type": "Upward",
+    "start_date": "2021-10-14",
+    "start_aligned_price": "62",
+    "end_price": "104",
+    "end_aligned_price": "69"
+  },
+  {
+    "start_date": "2021-10-21",
+    "trend_type": "Downward",
+    "start_aligned_price": "69",
+    "start_price": "103",
+    "end_date": "2021-10-22",
+    "end_price": "98"
+  },
+  {
+    "end_price": "104",
+    "start_aligned_price": "71",
+    "start_price": "99",
+    "end_date": "2021-10-26",
+    "start_date": "2021-10-25",
+    "trend_type": "Upward",
+    "end_aligned_price": "68"
+  },
+  {
+    "trend_type": "Downward",
+    "end_price": "94",
+    "start_date": "2021-10-27",
+    "start_price": "103",
+    "start_aligned_price": "68",
+    "end_date": "2021-11-01"
+  },
+  {
+    "trend_type": "Upward",
+    "end_aligned_price": "69",
+    "start_price": "95",
+    "start_date": "2021-11-02",
+    "start_aligned_price": "70",
+    "end_price": "102",
+    "end_date": "2021-11-08"
+  },
+  {
+    "trend_type": "Downward",
+    "end_price": "90",
+    "start_aligned_price": "69",
+    "start_price": "101",
+    "start_date": "2021-11-09",
+    "end_date": "2021-11-12"
+  },
+  {
+    "start_date": "2021-11-15",
+    "start_price": "91",
+    "end_date": "2021-11-15",
+    "end_price": "93",
+    "trend_type": "Upward",
+    "end_aligned_price": "59",
+    "start_aligned_price": "63"
+  },
+  {
+    "start_aligned_price": "59",
+    "end_price": "89",
+    "end_date": "2021-11-17",
+    "start_price": "92",
+    "start_date": "2021-11-16",
+    "trend_type": "Downward"
+  },
+  {
+    "start_date": "2021-11-18",
+    "end_price": "97",
+    "end_aligned_price": "63",
+    "end_date": "2021-11-22",
+    "trend_type": "Upward",
+    "start_aligned_price": "62",
+    "start_price": "90"
+  },
+  {
+    "end_price": "94",
+    "end_date": "2021-11-23",
+    "trend_type": "Downward",
+    "start_aligned_price": "63",
+    "start_date": "2021-11-23",
+    "start_price": "96"
+  },
+  {
+    "start_price": "95",
+    "start_date": "2021-11-24",
+    "end_price": "97",
+    "start_aligned_price": "67",
+    "end_aligned_price": "64",
+    "end_date": "2021-11-24",
+    "trend_type": "Upward"
+  },
+  {
+    "start_price": "96",
+    "end_price": "94",
+    "start_aligned_price": "64",
+    "end_date": "2021-11-26",
+    "start_date": "2021-11-25",
+    "trend_type": "Downward"
+  },
+  {
+    "end_aligned_price": "65",
+    "end_date": "2021-11-30",
+    "end_price": "102",
+    "trend_type": "Upward",
+    "start_date": "2021-11-29",
+    "start_price": "95",
+    "start_aligned_price": "67"
+  },
+  {
+    "end_price": "93",
+    "end_date": "2021-12-02",
+    "start_price": "101",
+    "start_date": "2021-12-01",
+    "trend_type": "Downward",
+    "start_aligned_price": "65"
+  },
+  {
+    "trend_type": "Upward",
+    "start_price": "94",
+    "start_aligned_price": "75",
+    "end_price": "106",
+    "end_aligned_price": "69",
+    "start_date": "2021-12-03",
+    "end_date": "2021-12-06"
+  },
+  {
+    "trend_type": "Downward",
+    "start_aligned_price": "69",
+    "end_date": "2021-12-08",
+    "start_date": "2021-12-07",
+    "end_price": "99",
+    "start_price": "105"
+  },
+  {
+    "start_date": "2021-12-09",
+    "end_price": "102",
+    "start_price": "100",
+    "trend_type": "Upward",
+    "start_aligned_price": "73",
+    "end_aligned_price": "67",
+    "end_date": "2021-12-09"
+  },
+  {
+    "start_date": "2021-12-10",
+    "trend_type": "Downward",
+    "start_price": "101",
+    "end_price": "97",
+    "start_aligned_price": "67",
+    "end_date": "2021-12-13"
+  },
+  {
+    "start_aligned_price": "77",
+    "end_price": "107",
+    "start_price": "98",
+    "start_date": "2021-12-14",
+    "end_aligned_price": "73",
+    "trend_type": "Upward",
+    "end_date": "2021-12-15"
+  },
+  {
+    "end_date": "2021-12-20",
+    "start_aligned_price": "73",
+    "start_price": "106",
+    "start_date": "2021-12-16",
+    "trend_type": "Downward",
+    "end_price": "100"
+  },
+  {
+    "start_price": "101",
+    "end_price": "107",
+    "trend_type": "Upward",
+    "start_date": "2021-12-21",
+    "end_date": "2021-12-22",
+    "start_aligned_price": "77",
+    "end_aligned_price": "69"
+  },
+  {
+    "end_date": "2021-12-30",
+    "end_price": "84",
+    "trend_type": "Downward",
+    "start_aligned_price": "69",
+    "start_date": "2021-12-23",
+    "start_price": "106"
+  },
+  {
+    "start_aligned_price": "59",
+    "end_price": "90",
+    "start_price": "85",
+    "end_date": "2022-01-04",
+    "trend_type": "Upward",
+    "end_aligned_price": "55",
+    "start_date": "2021-12-31"
+  },
+  {
+    "end_date": "2022-01-17",
+    "trend_type": "Downward",
+    "end_price": "73",
+    "start_date": "2022-01-05",
+    "start_price": "89",
+    "start_aligned_price": "55"
+  },
+  {
+    "start_price": "74",
+    "start_aligned_price": "51",
+    "trend_type": "Upward",
+    "end_price": "86",
+    "end_aligned_price": "50",
+    "end_date": "2022-01-19",
+    "start_date": "2022-01-18"
+  },
+  {
+    "start_date": "2022-01-20",
+    "trend_type": "Downward",
+    "end_date": "2022-01-24",
+    "start_price": "85",
+    "start_aligned_price": "50",
+    "end_price": "78"
+  },
+  {
+    "end_price": "81",
+    "trend_type": "Upward",
+    "start_date": "2022-01-25",
+    "start_price": "79",
+    "end_aligned_price": "47",
+    "start_aligned_price": "51",
+    "end_date": "2022-01-25"
+  },
+  {
+    "end_price": "73",
+    "end_date": "2022-01-28",
+    "start_price": "80",
+    "start_aligned_price": "47",
+    "trend_type": "Downward",
+    "start_date": "2022-01-26"
+  },
+  {
+    "end_date": "2022-02-09",
+    "end_price": "77",
+    "start_price": "74",
+    "start_aligned_price": "48",
+    "trend_type": "Upward",
+    "end_aligned_price": "43",
+    "start_date": "2022-02-07"
+  },
+  {
+    "end_price": "70",
+    "end_date": "2022-02-14",
+    "start_date": "2022-02-10",
+    "start_price": "76",
+    "start_aligned_price": "43",
+    "trend_type": "Downward"
+  },
+  {
+    "start_price": "71",
+    "start_aligned_price": "43",
+    "end_price": "77",
+    "end_aligned_price": "44",
+    "start_date": "2022-02-15",
+    "end_date": "2022-02-18",
+    "trend_type": "Upward"
+  },
+  {
+    "trend_type": "Downward",
+    "start_price": "76",
+    "start_aligned_price": "44",
+    "end_date": "2022-02-22",
+    "start_date": "2022-02-21",
+    "end_price": "74"
+  },
+  {
+    "start_price": "75",
+    "start_aligned_price": "47",
+    "end_price": "77",
+    "end_aligned_price": "43",
+    "end_date": "2022-02-23",
+    "trend_type": "Upward",
+    "start_date": "2022-02-23"
+  },
+  {
+    "start_aligned_price": "43",
+    "end_date": "2022-02-24",
+    "start_price": "76",
+    "start_date": "2022-02-24",
+    "trend_type": "Downward",
+    "end_price": "74"
+  },
+  {
+    "end_price": "77",
+    "start_price": "75",
+    "start_aligned_price": "47",
+    "end_aligned_price": "44",
+    "start_date": "2022-02-25",
+    "end_date": "2022-02-25",
+    "trend_type": "Upward"
+  },
+  {
+    "trend_type": "Downward",
+    "start_aligned_price": "44",
+    "end_date": "2022-03-09",
+    "start_price": "76",
+    "end_price": "67",
+    "start_date": "2022-02-28"
+  },
+  {
+    "end_date": "2022-03-14",
+    "start_date": "2022-03-10",
+    "start_aligned_price": "42",
+    "end_price": "72",
+    "end_aligned_price": "39",
+    "trend_type": "Upward",
+    "start_price": "68"
+  },
+  {
+    "end_date": "2022-03-15",
+    "start_date": "2022-03-15",
+    "end_price": "69",
+    "start_aligned_price": "39",
+    "start_price": "71",
+    "trend_type": "Downward"
+  },
+  {
+    "end_price": "75",
+    "trend_type": "Upward",
+    "end_date": "2022-03-22",
+    "start_price": "70",
+    "start_aligned_price": "43",
+    "end_aligned_price": "42",
+    "start_date": "2022-03-16"
+  },
+  {
+    "trend_type": "Downward",
+    "start_aligned_price": "42",
+    "end_price": "69",
+    "start_price": "74",
+    "start_date": "2022-03-23",
+    "end_date": "2022-03-25"
+  },
+  {
+    "end_aligned_price": "41",
+    "start_aligned_price": "43",
+    "end_date": "2022-04-06",
+    "start_price": "70",
+    "start_date": "2022-03-28",
+    "end_price": "76",
+    "trend_type": "Upward"
+  },
+  {
+    "start_aligned_price": "41",
+    "end_date": "2022-04-11",
+    "start_price": "75",
+    "start_date": "2022-04-07",
+    "trend_type": "Downward",
+    "end_price": "69"
+  },
+  {
+    "start_date": "2022-04-12",
+    "end_aligned_price": "39",
+    "end_date": "2022-04-14",
+    "end_price": "72",
+    "start_aligned_price": "43",
+    "trend_type": "Upward",
+    "start_price": "70"
+  },
+  {
+    "start_aligned_price": "39",
+    "start_price": "71",
+    "trend_type": "Downward",
+    "start_date": "2022-04-15",
+    "end_price": "69",
+    "end_date": "2022-04-15"
+  },
+  {
+    "start_date": "2022-04-18",
+    "end_date": "2022-04-19",
+    "trend_type": "Upward",
+    "end_price": "75",
+    "start_aligned_price": "44",
+    "start_price": "70",
+    "end_aligned_price": "42"
+  },
+  {
+    "end_price": "70",
+    "trend_type": "Downward",
+    "start_date": "2022-04-20",
+    "start_price": "74",
+    "start_aligned_price": "42",
+    "end_date": "2022-04-22"
+  },
+  {
+    "start_aligned_price": "43",
+    "end_aligned_price": "36",
+    "end_date": "2022-04-25",
+    "start_price": "71",
+    "trend_type": "Upward",
+    "end_price": "73",
+    "start_date": "2022-04-25"
+  },
+  {
+    "end_price": "62",
+    "trend_type": "Downward",
+    "start_price": "72",
+    "start_date": "2022-04-26",
+    "start_aligned_price": "36",
+    "end_date": "2022-04-27"
+  },
+  {
+    "end_date": "2022-05-05",
+    "start_date": "2022-04-28",
+    "trend_type": "Upward",
+    "end_aligned_price": "37",
+    "end_price": "70",
+    "start_price": "63",
+    "start_aligned_price": "37"
+  },
+  {
+    "trend_type": "Downward",
+    "start_date": "2022-05-06",
+    "end_price": "64",
+    "end_date": "2022-05-10",
+    "start_price": "69",
+    "start_aligned_price": "37"
+  },
+  {
+    "start_price": "65",
+    "start_aligned_price": "41",
+    "start_date": "2022-05-11",
+    "end_aligned_price": "46",
+    "end_price": "79",
+    "trend_type": "Upward",
+    "end_date": "2022-05-18"
+  },
+  {
+    "start_aligned_price": "46",
+    "start_price": "78",
+    "start_date": "2022-05-19",
+    "trend_type": "Downward",
+    "end_price": "73",
+    "end_date": "2022-05-25"
+  },
+  {
+    "end_aligned_price": "64",
+    "end_date": "2022-06-06",
+    "start_aligned_price": "47",
+    "start_date": "2022-05-26",
+    "start_price": "74",
+    "trend_type": "Upward",
+    "end_price": "99"
+  },
+  {
+    "start_aligned_price": "64",
+    "start_price": "98",
+    "end_price": "94",
+    "end_date": "2022-06-08",
+    "trend_type": "Downward",
+    "start_date": "2022-06-07"
+  },
+  {
+    "end_price": "103",
+    "trend_type": "Upward",
+    "start_date": "2022-06-09",
+    "start_price": "95",
+    "end_aligned_price": "63",
+    "end_date": "2022-06-13",
+    "start_aligned_price": "68"
+  },
+  {
+    "start_aligned_price": "63",
+    "start_price": "102",
+    "start_date": "2022-06-14",
+    "trend_type": "Downward",
+    "end_price": "96",
+    "end_date": "2022-06-15"
+  },
+  {
+    "start_price": "97",
+    "end_price": "107",
+    "end_date": "2022-06-20",
+    "trend_type": "Upward",
+    "end_aligned_price": "69",
+    "start_date": "2022-06-16",
+    "start_aligned_price": "73"
+  },
+  {
+    "end_date": "2022-06-22",
+    "start_date": "2022-06-21",
+    "start_price": "106",
+    "trend_type": "Downward",
+    "start_aligned_price": "69",
+    "end_price": "100"
+  },
+  {
+    "end_price": "120",
+    "start_date": "2022-06-23",
+    "end_aligned_price": "78",
+    "end_date": "2022-06-28",
+    "start_price": "101",
+    "trend_type": "Upward",
+    "start_aligned_price": "77"
+  },
+  {
+    "end_date": "2022-06-30",
+    "start_price": "119",
+    "start_date": "2022-06-29",
+    "start_aligned_price": "78",
+    "trend_type": "Downward",
+    "end_price": "107"
+  },
+  {
+    "end_aligned_price": "74",
+    "start_date": "2022-07-01",
+    "trend_type": "Upward",
+    "end_price": "119",
+    "start_price": "108",
+    "end_date": "2022-07-05",
+    "start_aligned_price": "86"
+  },
+  {
+    "end_price": "107",
+    "start_date": "2022-07-06",
+    "start_aligned_price": "74",
+    "end_date": "2022-07-07",
+    "trend_type": "Downward",
+    "start_price": "118"
+  },
+  {
+    "end_price": "110",
+    "end_date": "2022-07-08",
+    "start_price": "108",
+    "trend_type": "Upward",
+    "start_date": "2022-07-08",
+    "end_aligned_price": "73",
+    "start_aligned_price": "82"
+  },
+  {
+    "start_price": "109",
+    "end_date": "2022-07-12",
+    "start_aligned_price": "73",
+    "end_price": "102",
+    "trend_type": "Downward",
+    "start_date": "2022-07-11"
+  },
+  {
+    "end_aligned_price": "74",
+    "end_date": "2022-07-15",
+    "trend_type": "Upward",
+    "start_aligned_price": "75",
+    "start_price": "103",
+    "start_date": "2022-07-13",
+    "end_price": "108"
+  },
+  {
+    "start_price": "107",
+    "start_date": "2022-07-18",
+    "start_aligned_price": "74",
+    "end_price": "99",
+    "trend_type": "Downward",
+    "end_date": "2022-07-25"
+  },
+  {
+    "start_date": "2022-07-26",
+    "start_aligned_price": "75",
+    "end_aligned_price": "74",
+    "start_price": "100",
+    "end_price": "111",
+    "end_date": "2022-08-01",
+    "trend_type": "Upward"
+  },
+  {
+    "trend_type": "Downward",
+    "start_aligned_price": "74",
+    "end_price": "94",
+    "start_price": "110",
+    "start_date": "2022-08-02",
+    "end_date": "2022-08-08"
+  },
+  {
+    "start_date": "2022-08-09",
+    "start_price": "95",
+    "trend_type": "Upward",
+    "start_aligned_price": "67",
+    "end_aligned_price": "64",
+    "end_price": "97",
+    "end_date": "2022-08-09"
+  },
+  {
+    "end_price": "93",
+    "start_aligned_price": "64",
+    "end_date": "2022-08-12",
+    "start_date": "2022-08-10",
+    "start_price": "96",
+    "trend_type": "Downward"
+  },
+  {
+    "start_price": "94",
+    "end_aligned_price": "65",
+    "start_date": "2022-08-15",
+    "trend_type": "Upward",
+    "start_aligned_price": "67",
+    "end_price": "98",
+    "end_date": "2022-08-17"
+  },
+  {
+    "end_price": "92",
+    "start_price": "97",
+    "end_date": "2022-08-19",
+    "start_date": "2022-08-18",
+    "start_aligned_price": "65",
+    "trend_type": "Downward"
+  },
+  {
+    "start_price": "93",
+    "start_aligned_price": "67",
+    "end_price": "96",
+    "end_aligned_price": "61",
+    "end_date": "2022-08-23",
+    "trend_type": "Upward",
+    "start_date": "2022-08-22"
+  },
+  {
+    "end_date": "2022-08-25",
+    "start_price": "95",
+    "start_date": "2022-08-24",
+    "start_aligned_price": "61",
+    "end_price": "91",
+    "trend_type": "Downward"
+  },
+  {
+    "start_price": "92",
+    "end_date": "2022-08-31",
+    "start_aligned_price": "66",
+    "start_date": "2022-08-26",
+    "end_price": "98",
+    "end_aligned_price": "60",
+    "trend_type": "Upward"
+  },
+  {
+    "start_price": "97",
+    "end_price": "92",
+    "trend_type": "Downward",
+    "end_date": "2022-09-05",
+    "start_aligned_price": "60",
+    "start_date": "2022-09-01"
+  },
+  {
+    "start_aligned_price": "66",
+    "end_price": "97",
+    "end_aligned_price": "64",
+    "start_date": "2022-09-06",
+    "end_date": "2022-09-08",
+    "trend_type": "Upward",
+    "start_price": "93"
+  },
+  {
+    "trend_type": "Downward",
+    "end_date": "2022-09-09",
+    "start_date": "2022-09-09",
+    "start_price": "96",
+    "end_price": "94",
+    "start_aligned_price": "64"
+  },
+  {
+    "start_date": "2022-09-13",
+    "trend_type": "Upward",
+    "start_aligned_price": "70",
+    "end_date": "2022-09-14",
+    "end_aligned_price": "63",
+    "end_price": "100",
+    "start_price": "95"
+  },
+  {
+    "end_date": "2022-09-16",
+    "start_date": "2022-09-15",
+    "start_price": "99",
+    "end_price": "91",
+    "start_aligned_price": "63",
+    "trend_type": "Downward"
+  },
+  {
+    "end_date": "2022-09-20",
+    "start_aligned_price": "69",
+    "trend_type": "Upward",
+    "end_price": "99",
+    "start_date": "2022-09-19",
+    "start_price": "92",
+    "end_aligned_price": "66"
+  },
+  {
+    "start_aligned_price": "66",
+    "start_date": "2022-09-21",
+    "end_date": "2022-09-26",
+    "start_price": "98",
+    "end_price": "91",
+    "trend_type": "Downward"
+  },
+  {
+    "trend_type": "Upward",
+    "start_price": "92",
+    "end_price": "94",
+    "end_aligned_price": "60",
+    "start_aligned_price": "64",
+    "end_date": "2022-09-27",
+    "start_date": "2022-09-27"
+  },
+  {
+    "end_date": "2022-10-11",
+    "start_date": "2022-09-28",
+    "trend_type": "Downward",
+    "start_price": "93",
+    "end_price": "77",
+    "start_aligned_price": "60"
+  },
+  {
+    "end_date": "2022-10-14",
+    "end_aligned_price": "52",
+    "start_aligned_price": "52",
+    "end_price": "85",
+    "trend_type": "Upward",
+    "start_date": "2022-10-12",
+    "start_price": "78"
+  },
+  {
+    "trend_type": "Downward",
+    "start_date": "2022-10-17",
+    "start_price": "84",
+    "start_aligned_price": "52",
+    "end_price": "82",
+    "end_date": "2022-10-17"
+  },
+  {
+    "start_date": "2022-10-18",
+    "start_price": "83",
+    "end_aligned_price": "52",
+    "end_date": "2022-10-18",
+    "start_aligned_price": "55",
+    "trend_type": "Upward",
+    "end_price": "85"
+  },
+  {
+    "start_price": "84",
+    "start_aligned_price": "52",
+    "end_price": "78",
+    "end_date": "2022-10-24",
+    "start_date": "2022-10-19",
+    "trend_type": "Downward"
+  },
+  {
+    "start_date": "2022-10-25",
+    "end_aligned_price": "48",
+    "start_price": "79",
+    "start_aligned_price": "51",
+    "trend_type": "Upward",
+    "end_price": "81",
+    "end_date": "2022-10-26"
+  },
+  {
+    "end_price": "75",
+    "trend_type": "Downward",
+    "end_date": "2022-11-01",
+    "start_date": "2022-10-27",
+    "start_price": "80",
+    "start_aligned_price": "48"
+  },
+  {
+    "start_date": "2022-11-02",
+    "end_aligned_price": "54",
+    "start_price": "76",
+    "start_aligned_price": "52",
+    "end_date": "2022-11-07",
+    "trend_type": "Upward",
+    "end_price": "87"
+  },
+  {
+    "start_date": "2022-11-08",
+    "start_price": "86",
+    "end_date": "2022-11-08",
+    "end_price": "84",
+    "start_aligned_price": "54",
+    "trend_type": "Downward"
+  },
+  {
+    "start_aligned_price": "57",
+    "start_price": "85",
+    "end_price": "87",
+    "trend_type": "Upward",
+    "end_aligned_price": "52",
+    "start_date": "2022-11-09",
+    "end_date": "2022-11-09"
+  },
+  {
+    "end_date": "2022-11-14",
+    "start_aligned_price": "52",
+    "start_price": "86",
+    "trend_type": "Downward",
+    "start_date": "2022-11-10",
+    "end_price": "81"
+  },
+  {
+    "start_date": "2022-11-15",
+    "trend_type": "Upward",
+    "start_price": "82",
+    "end_price": "85",
+    "end_aligned_price": "50",
+    "end_date": "2022-11-16",
+    "start_aligned_price": "54"
+  },
+  {
+    "end_price": "77",
+    "end_date": "2022-11-21",
+    "start_aligned_price": "50",
+    "start_date": "2022-11-17",
+    "trend_type": "Downward",
+    "start_price": "84"
+  },
+  {
+    "start_date": "2022-11-22",
+    "end_aligned_price": "46",
+    "start_price": "78",
+    "trend_type": "Upward",
+    "start_aligned_price": "50",
+    "end_price": "80",
+    "end_date": "2022-11-22"
+  },
+  {
+    "start_date": "2022-11-23",
+    "start_aligned_price": "46",
+    "end_date": "2022-11-28",
+    "trend_type": "Downward",
+    "end_price": "73",
+    "start_price": "79"
+  },
+  {
+    "end_aligned_price": "46",
+    "start_date": "2022-11-29",
+    "end_date": "2022-12-01",
+    "trend_type": "Upward",
+    "end_price": "83",
+    "start_price": "74",
+    "start_aligned_price": "47"
+  },
+  {
+    "start_aligned_price": "46",
+    "start_date": "2022-12-02",
+    "trend_type": "Downward",
+    "end_price": "75",
+    "end_date": "2022-12-06",
+    "start_price": "82"
+  },
+  {
+    "start_date": "2022-12-07",
+    "end_price": "79",
+    "trend_type": "Upward",
+    "start_aligned_price": "49",
+    "start_price": "76",
+    "end_aligned_price": "46",
+    "end_date": "2022-12-09"
+  },
+  {
+    "start_price": "78",
+    "trend_type": "Downward",
+    "start_date": "2022-12-12",
+    "start_aligned_price": "46",
+    "end_price": "74",
+    "end_date": "2022-12-16"
+  },
+  {
+    "trend_type": "Upward",
+    "end_aligned_price": "43",
+    "end_price": "77",
+    "start_date": "2022-12-19",
+    "end_date": "2022-12-19",
+    "start_aligned_price": "47",
+    "start_price": "75"
+  },
+  {
+    "start_date": "2022-12-20",
+    "start_price": "76",
+    "end_date": "2022-12-23",
+    "trend_type": "Downward",
+    "end_price": "70",
+    "start_aligned_price": "43"
+  },
+  {
+    "trend_type": "Upward",
+    "start_aligned_price": "43",
+    "start_price": "71",
+    "end_price": "74",
+    "start_date": "2022-12-26",
+    "end_aligned_price": "41",
+    "end_date": "2022-12-27"
+  },
+  {
+    "end_date": "2023-01-04",
+    "trend_type": "Downward",
+    "start_price": "73",
+    "start_date": "2022-12-28",
+    "start_aligned_price": "41",
+    "end_price": "69"
+  },
+  {
+    "trend_type": "Upward",
+    "start_price": "70",
+    "start_date": "2023-01-05",
+    "end_price": "75",
+    "start_aligned_price": "42",
+    "end_aligned_price": "42",
+    "end_date": "2023-01-10"
+  },
+  {
+    "start_date": "2023-01-11",
+    "end_date": "2023-01-20",
+    "trend_type": "Downward",
+    "end_price": "68",
+    "start_aligned_price": "42",
+    "start_price": "74"
+  },
+  {
+    "end_price": "73",
+    "end_date": "2023-02-02",
+    "trend_type": "Upward",
+    "start_date": "2023-01-30",
+    "end_aligned_price": "40",
+    "start_aligned_price": "42",
+    "start_price": "69"
+  },
+  {
+    "end_price": "67",
+    "start_price": "72",
+    "start_aligned_price": "40",
+    "trend_type": "Downward",
+    "end_date": "2023-02-14",
+    "start_date": "2023-02-03"
+  },
+  {
+    "trend_type": "Upward",
+    "start_date": "2023-02-15",
+    "start_aligned_price": "40",
+    "end_aligned_price": "37",
+    "end_price": "70",
+    "end_date": "2023-02-15",
+    "start_price": "68"
+  },
+  {
+    "start_date": "2023-02-16",
+    "end_date": "2023-02-21",
+    "start_aligned_price": "37",
+    "start_price": "69",
+    "trend_type": "Downward",
+    "end_price": "65"
+  },
+  {
+    "end_date": "2023-03-09",
+    "start_aligned_price": "38",
+    "start_price": "66",
+    "trend_type": "Upward",
+    "start_date": "2023-02-22",
+    "end_price": "69",
+    "end_aligned_price": "36"
+  },
+  {
+    "start_price": "68",
+    "start_aligned_price": "36",
+    "start_date": "2023-03-10",
+    "end_price": "65",
+    "end_date": "2023-03-13",
+    "trend_type": "Downward"
+  },
+  {
+    "end_aligned_price": "38",
+    "trend_type": "Upward",
+    "end_date": "2023-03-27",
+    "start_date": "2023-03-14",
+    "start_aligned_price": "39",
+    "start_price": "66",
+    "end_price": "71"
+  },
+  {
+    "start_aligned_price": "38",
+    "trend_type": "Downward",
+    "end_price": "61",
+    "start_price": "70",
+    "start_date": "2023-03-28",
+    "end_date": "2023-04-14"
+  },
+  {
+    "start_price": "62",
+    "trend_type": "Upward",
+    "end_price": "64",
+    "end_aligned_price": "31",
+    "start_date": "2023-04-17",
+    "end_date": "2023-04-19",
+    "start_aligned_price": "34"
+  },
+  {
+    "end_price": "54",
+    "start_aligned_price": "31",
+    "end_date": "2023-06-09",
+    "start_price": "63",
+    "start_date": "2023-04-20",
+    "trend_type": "Downward"
+  },
+  {
+    "start_aligned_price": "27",
+    "start_price": "55",
+    "end_aligned_price": "38",
+    "trend_type": "Upward",
+    "end_price": "71",
+    "end_date": "2023-06-20",
+    "start_date": "2023-06-12"
+  },
+  {
+    "trend_type": "Downward",
+    "start_price": "70",
+    "start_aligned_price": "38",
+    "end_price": "68",
+    "start_date": "2023-06-21",
+    "end_date": "2023-06-21"
+  },
+  {
+    "end_price": "71",
+    "start_date": "2023-06-26",
+    "start_aligned_price": "42",
+    "end_aligned_price": "37",
+    "start_price": "69",
+    "trend_type": "Upward",
+    "end_date": "2023-06-27"
+  },
+  {
+    "end_date": "2023-06-30",
+    "trend_type": "Downward",
+    "start_aligned_price": "37",
+    "end_price": "66",
+    "start_date": "2023-06-28",
+    "start_price": "70"
+  },
+  {
+    "end_price": "77",
+    "end_aligned_price": "44",
+    "start_date": "2023-07-03",
+    "trend_type": "Upward",
+    "start_price": "67",
+    "end_date": "2023-07-06",
+    "start_aligned_price": "40"
+  },
+  {
+    "end_price": "73",
+    "start_price": "76",
+    "end_date": "2023-07-10",
+    "start_aligned_price": "44",
+    "start_date": "2023-07-07",
+    "trend_type": "Downward"
+  },
+  {
+    "start_aligned_price": "48",
+    "end_date": "2023-07-12",
+    "end_aligned_price": "44",
+    "start_date": "2023-07-11",
+    "start_price": "74",
+    "trend_type": "Upward",
+    "end_price": "81"
+  },
+  {
+    "trend_type": "Downward",
+    "end_date": "2023-07-24",
+    "start_price": "80",
+    "start_aligned_price": "44",
+    "start_date": "2023-07-13",
+    "end_price": "69"
+  },
+  {
+    "start_aligned_price": "42",
+    "end_date": "2023-07-25",
+    "start_price": "70",
+    "start_date": "2023-07-25",
+    "trend_type": "Upward",
+    "end_price": "72",
+    "end_aligned_price": "38"
+  },
+  {
+    "trend_type": "Downward",
+    "start_price": "71",
+    "start_aligned_price": "38",
+    "end_price": "67",
+    "end_date": "2023-07-28",
+    "start_date": "2023-07-26"
+  },
+  {
+    "end_aligned_price": "42",
+    "end_date": "2023-08-01",
+    "start_price": "68",
+    "start_date": "2023-07-31",
+    "trend_type": "Upward",
+    "start_aligned_price": "45",
+    "end_price": "76"
+  },
+  {
+    "trend_type": "Downward",
+    "start_date": "2023-08-02",
+    "start_price": "75",
+    "end_date": "2023-08-25",
+    "start_aligned_price": "42",
+    "end_price": "61"
+  },
+  {
+    "end_aligned_price": "41",
+    "start_date": "2023-08-28",
+    "start_aligned_price": "35",
+    "end_price": "75",
+    "end_date": "2023-09-06",
+    "trend_type": "Upward",
+    "start_price": "62"
+  },
+  {
+    "start_date": "2023-09-07",
+    "start_price": "74",
+    "trend_type": "Downward",
+    "end_price": "71",
+    "start_aligned_price": "41",
+    "end_date": "2023-09-08"
+  },
+  {
+    "end_aligned_price": "41",
+    "start_price": "72",
+    "start_aligned_price": "46",
+    "end_date": "2023-09-12",
+    "start_date": "2023-09-11",
+    "end_price": "75",
+    "trend_type": "Upward"
+  },
+  {
+    "end_price": "71",
+    "start_aligned_price": "41",
+    "start_date": "2023-09-13",
+    "start_price": "74",
+    "end_date": "2023-09-14",
+    "trend_type": "Downward"
+  },
+  {
+    "end_price": "83",
+    "start_aligned_price": "47",
+    "end_aligned_price": "50",
+    "end_date": "2023-09-19",
+    "start_date": "2023-09-15",
+    "trend_type": "Upward",
+    "start_price": "72"
+  },
+  {
+    "start_date": "2023-09-20",
+    "start_aligned_price": "50",
+    "end_price": "78",
+    "end_date": "2023-09-22",
+    "trend_type": "Downward",
+    "start_price": "82"
+  },
+  {
+    "start_aligned_price": "52",
+    "end_date": "2023-09-26",
+    "trend_type": "Upward",
+    "start_date": "2023-09-25",
+    "end_price": "85",
+    "end_aligned_price": "49",
+    "start_price": "79"
+  },
+  {
+    "start_aligned_price": "49",
+    "start_price": "84",
+    "end_price": "80",
+    "start_date": "2023-09-27",
+    "end_date": "2023-09-28",
+    "trend_type": "Downward"
+  },
+  {
+    "start_aligned_price": "61",
+    "start_price": "81",
+    "end_price": "102",
+    "end_date": "2023-10-11",
+    "trend_type": "Upward",
+    "start_date": "2023-10-09",
+    "end_aligned_price": "65"
+  },
+  {
+    "trend_type": "Downward",
+    "start_date": "2023-10-12",
+    "start_price": "101",
+    "end_price": "96",
+    "start_aligned_price": "65",
+    "end_date": "2023-10-13"
+  },
+  {
+    "start_aligned_price": "78",
+    "end_price": "118",
+    "start_date": "2023-10-16",
+    "end_date": "2023-10-19",
+    "end_aligned_price": "78",
+    "trend_type": "Upward",
+    "start_price": "97"
+  },
+  {
+    "start_date": "2023-10-20",
+    "start_price": "117",
+    "end_price": "108",
+    "end_date": "2023-10-24",
+    "trend_type": "Downward",
+    "start_aligned_price": "78"
+  },
+  {
+    "end_date": "2023-10-26",
+    "start_date": "2023-10-25",
+    "trend_type": "Upward",
+    "end_aligned_price": "79",
+    "start_price": "109",
+    "end_price": "114",
+    "start_aligned_price": "84"
+  },
+  {
+    "start_price": "113",
+    "start_date": "2023-10-27",
+    "trend_type": "Downward",
+    "start_aligned_price": "79"
+  }
+]
